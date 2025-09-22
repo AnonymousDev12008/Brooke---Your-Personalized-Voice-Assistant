@@ -1,3 +1,6 @@
+#Killing the machine back again with more power ful commands
+#Brooke Version 3.0.1
+
 from winreg import QueryValue
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
@@ -10,14 +13,14 @@ import pyjokes
 import os
 import random
 import ecapture
-from sketchpy import library as lib
+
 import winshell
 import subprocess
-import requests
-from PIL import Image
+
+
 import requests
 import io
-from clarifai.rest import ClarifaiApp
+
 
 
 engine = pyttsx3.init('sapi5')
