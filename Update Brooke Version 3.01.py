@@ -156,7 +156,7 @@ if __name__ == "__main__":
              location = query
              speak("Client asked to Open")
              speak(location)
-             webbrowser.open("https://psaimanikantha22.wixsite.com/mysite")  
+             webbrowser.open("https://portfolio-ad1208.vercel.app/")  
     
         elif "chrome" in query:
              query = query.replace("where is", "")
